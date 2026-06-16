@@ -1,4 +1,6 @@
 # tamagochi
+a little tamagochi, created with a PCB (KiCad) & 3D cover (Onshape)…
+made with help from fallout.hackclub.com/docs/guided-projects/tamagotchi
 
 ## images:
 - schematic
