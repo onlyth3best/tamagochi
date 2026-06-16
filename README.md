@@ -22,7 +22,8 @@ made with help from fallout.hackclub.com/docs/guided-projects/tamagotchi
 - (assembly, wiring)
 
 ## motivation & zine:
-- (insert)
+- motivation for this project was: to learn more about 3D modelling, as I have struggled with that in the past. Also, making something that I could use in real life for fun!
+- insert (ZINEE)
 
 ## BOM:
 - also (insert)
